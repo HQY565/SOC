@@ -47,4 +47,3 @@ end process;
 q <= Qn;
 p <= Pn;
 end rtl1;
-```vhdl
