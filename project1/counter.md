@@ -50,6 +50,5 @@ end rtl1;
 ```
 ## 波形圖
 <img width="1575" height="857" alt="image" src="https://github.com/user-attachments/assets/10236faf-0380-46e6-b709-79e381447995" />  
-```
-## 架構圖
+架構圖
 <img width="823" height="421" alt="image" src="https://github.com/user-attachments/assets/15570a86-0ae4-4c12-8c90-cd267d80b1e4" />
