@@ -48,5 +48,5 @@ q <= Qn;
 p <= Pn;
 end rtl1;
 ```
-##波形圖
+# # 波形圖 # #
 <img width="1575" height="857" alt="image" src="https://github.com/user-attachments/assets/10236faf-0380-46e6-b709-79e381447995" />
