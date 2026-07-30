@@ -88,5 +88,5 @@ end Behavioral;
 ## 波形圖
 <img width="1577" height="784" alt="image" src="https://github.com/user-attachments/assets/297ad81a-9ba8-4a6e-ad95-3efd452d758c" />
 
-##架構圖
+## 架構圖
 <img width="1049" height="440" alt="image" src="https://github.com/user-attachments/assets/be27764b-65ab-4e8e-bdb7-e8cf8d31c617" />
