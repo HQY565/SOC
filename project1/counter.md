@@ -53,3 +53,6 @@ end rtl1;
 
 ## 架構圖
 <img width="1227" height="619" alt="image" src="https://github.com/user-attachments/assets/5a720080-4e72-47dd-b8c1-08a063cb8465" />
+
+## break down
+<img width="1060" height="572" alt="image" src="https://github.com/user-attachments/assets/bd01fe81-4a32-4759-b7c0-e3a744388e24" />
