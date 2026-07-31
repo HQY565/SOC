@@ -119,3 +119,12 @@ set_property IOSTANDARD LVCMOS25 [get_ports {P[3]}]
 
 ## 架構圖
 <img width="1049" height="440" alt="image" src="https://github.com/user-attachments/assets/be27764b-65ab-4e8e-bdb7-e8cf8d31c617" />
+
+## AOV
+<img width="978" height="585" alt="image" src="https://github.com/user-attachments/assets/ab85a980-ecae-4460-af59-45bd0f9b1ecb" />
+
+## breakdown
+<img width="853" height="538" alt="image" src="https://github.com/user-attachments/assets/bb0f7111-3b55-4c5a-b775-1864ca3af6aa" />
+
+## MSC
+<img width="992" height="399" alt="image" src="https://github.com/user-attachments/assets/8cda521f-dc9a-49ea-b5fd-0c3b40877677" />
