@@ -86,3 +86,6 @@ end Behavioral;
 ## 波形圖
 <img width="1577" height="793" alt="image" src="https://github.com/user-attachments/assets/731e620e-0030-48f6-a5e3-d01dcbf02cfc" />
 
+## AOV
+<img width="901" height="231" alt="image" src="https://github.com/user-attachments/assets/42ccb7c5-4ab9-4787-8e59-fca9a0b39d80" />
+
