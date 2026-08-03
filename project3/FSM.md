@@ -95,5 +95,5 @@ end Behavioral;
 ## breakdown
 <img width="1114" height="443" alt="image" src="https://github.com/user-attachments/assets/f4a59043-5752-4a17-a3d0-50143e0fc17e" />
 
-## msc
+## MSC
 <img width="1162" height="402" alt="image" src="https://github.com/user-attachments/assets/8ea1a737-ce0d-4f5c-9a21-2b31eba2217f" />
