@@ -91,3 +91,6 @@ end Behavioral;
 
 ## 架構圖
 <img width="825" height="731" alt="image" src="https://github.com/user-attachments/assets/d27f7f94-b7cc-49f3-9782-3c7d246792dd" />
+
+## breakdown
+<img width="1114" height="443" alt="image" src="https://github.com/user-attachments/assets/f4a59043-5752-4a17-a3d0-50143e0fc17e" />
