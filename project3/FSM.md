@@ -97,3 +97,6 @@ end Behavioral;
 
 ## MSC
 <img width="1162" height="402" alt="image" src="https://github.com/user-attachments/assets/8ea1a737-ce0d-4f5c-9a21-2b31eba2217f" />
+
+## FSM
+<img width="878" height="487" alt="image" src="https://github.com/user-attachments/assets/29d08d60-b830-4562-8b1f-1f37456b33d1" />
