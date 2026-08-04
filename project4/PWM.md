@@ -140,4 +140,4 @@ end Behavioral;
 <img width="1560" height="805" alt="image" src="https://github.com/user-attachments/assets/622788fc-3767-4f26-833b-14d8786fd1c8" />
 
 ## 架構圖
-<img width="951" height="337" alt="image" src="https://github.com/user-attachments/assets/b8ef5518-f302-4e79-8f38-ee4ebf1b8de6" />
+<img width="1418" height="511" alt="image" src="https://github.com/user-attachments/assets/bf8680cd-cc6a-4425-be6d-72e25e7e4ef6" />
