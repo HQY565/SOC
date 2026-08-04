@@ -137,3 +137,4 @@ begin
 end Behavioral;
 ````
 ## 波形圖
+<img width="1560" height="805" alt="image" src="https://github.com/user-attachments/assets/622788fc-3767-4f26-833b-14d8786fd1c8" />
