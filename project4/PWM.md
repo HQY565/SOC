@@ -138,3 +138,6 @@ end Behavioral;
 ````
 ## 波形圖
 <img width="1560" height="805" alt="image" src="https://github.com/user-attachments/assets/622788fc-3767-4f26-833b-14d8786fd1c8" />
+
+## 架構圖
+<img width="951" height="337" alt="image" src="https://github.com/user-attachments/assets/b8ef5518-f302-4e79-8f38-ee4ebf1b8de6" />
