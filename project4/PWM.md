@@ -144,3 +144,6 @@ end Behavioral;
 
 ## AOV
 <img width="1126" height="504" alt="image" src="https://github.com/user-attachments/assets/f4fbab6c-380a-4331-a2d7-6113d5d1e126" />
+
+## MSC
+<img width="1158" height="462" alt="image" src="https://github.com/user-attachments/assets/82ba6445-c537-4d78-9cc7-079d1cf2764a" />
