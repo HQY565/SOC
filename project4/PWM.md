@@ -152,4 +152,5 @@ end Behavioral;
 <img width="1226" height="447" alt="image" src="https://github.com/user-attachments/assets/035aeb66-b401-464c-a4c2-67969138fa0b" />
 
 ## FSM
-<img width="963" height="654" alt="image" src="https://github.com/user-attachments/assets/6b5c6f06-48b6-432a-9bf8-4bf55d87a0c2" />
+<img width="962" height="658" alt="image" src="https://github.com/user-attachments/assets/6d6e9132-44e4-463c-846c-0bed81903736" />
+
