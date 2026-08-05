@@ -148,5 +148,8 @@ end Behavioral;
 ## MSC
 <img width="1158" height="462" alt="image" src="https://github.com/user-attachments/assets/82ba6445-c537-4d78-9cc7-079d1cf2764a" />
 
-## breal down
+## break down
 <img width="1226" height="447" alt="image" src="https://github.com/user-attachments/assets/035aeb66-b401-464c-a4c2-67969138fa0b" />
+
+## FSM
+<img width="963" height="654" alt="image" src="https://github.com/user-attachments/assets/6b5c6f06-48b6-432a-9bf8-4bf55d87a0c2" />
