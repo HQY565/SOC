@@ -207,3 +207,5 @@ begin
 
 end Behavioral;
 ````
+## 架構圖
+<img width="1381" height="433" alt="image" src="https://github.com/user-attachments/assets/89e6b23e-04cd-400a-ad4b-697ca6bbee44" />
