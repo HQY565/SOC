@@ -212,3 +212,6 @@ end Behavioral;
 
 ## AOV
 <img width="1023" height="214" alt="image" src="https://github.com/user-attachments/assets/87dac54e-8dcd-4416-86c8-098fbeb275a8" />
+
+## FSM
+<img width="1005" height="537" alt="image" src="https://github.com/user-attachments/assets/b793d6a2-7bac-4c7b-93d3-68096d2c4bdf" />
