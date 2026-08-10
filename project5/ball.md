@@ -210,3 +210,5 @@ end Behavioral;
 ## 架構圖
 <img width="1429" height="496" alt="image" src="https://github.com/user-attachments/assets/46b11514-423d-4629-882c-aa518ff37452" />
 
+## AOV
+<img width="1023" height="214" alt="image" src="https://github.com/user-attachments/assets/87dac54e-8dcd-4416-86c8-098fbeb275a8" />
