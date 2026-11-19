@@ -6,7 +6,7 @@
 
 ![完整 CPU ln/exp 功能整合驗證通過](assets/screenshots/04_final_pass.png)
 
-## TL;DR｜這個專題到底做什麼？
+## TL;DR｜到底做什麼？
 
 學長提供**單通道 CORDIC 硬體**，每次透過移位與加減處理一個 `(X,Y)` 更新步驟。軟體負責安排雙曲線 CORDIC 的 **13 次迭代**、查表及 Q12 定點數的輸入輸出；Mi-V CPU 透過**自訂 RISC-V 指令**呼叫 CORDIC，而不是使用一般函式庫的 `log()` 或 `exp()`。
 
