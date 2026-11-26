@@ -1,0 +1,5 @@
+﻿function,scope,serial_1ch_cycles,parallel_10ch_cycles,speedup,cycle_saving,latency_reduction_pct,clock_period_ns
+ln,core_only,169,16,10.562500,153,90.533,10
+exp,core_only,169,16,10.562500,153,90.533,10
+ln,cpu_total,522,352,1.482955,170,32.567,10
+exp,cpu_total,524,354,1.480226,170,32.443,10

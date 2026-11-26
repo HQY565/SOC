@@ -1,0 +1,5 @@
+﻿function,mode,cpu_total,mmio_to_ram,start_to_done,busy_to_done,done_to_ram_marker
+ln,1CH_serial,522,484,192,190,254
+ln,10CH_parallel,352,314,18,16,258
+exp,1CH_serial,524,486,192,190,254
+exp,10CH_parallel,354,316,18,16,258
